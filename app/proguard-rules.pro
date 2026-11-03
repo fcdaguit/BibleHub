@@ -1,0 +1,4 @@
+-keep class com.google.mediapipe.** { *; }
+-dontwarn com.google.mediapipe.**
+-dontwarn com.google.protobuf.**
+-keep class com.sermonprep.app.data.db.** { *; }

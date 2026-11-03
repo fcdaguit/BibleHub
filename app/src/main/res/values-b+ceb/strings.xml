@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sermon Prep</string>
+
+    <string name="tab_sermons">Mga Sermon</string>
+    <string name="tab_bible">Biblia</string>
+    <string name="tab_search">Pangita</string>
+    <string name="tab_assistant">Katabang</string>
+    <string name="tab_settings">Mga Setting</string>
+
+    <string name="action_cancel">Kanselahon</string>
+    <string name="action_ok">OK</string>
+    <string name="action_close">Sirad-an</string>
+    <string name="action_delete">Papasa</string>
+    <string name="action_duplicate">Himoag kopya</string>
+    <string name="action_copy">Kopyahon</string>
+    <string name="action_share">Ipaambit</string>
+    <string name="action_back">Balik</string>
+    <string name="action_previous">Miaging</string>
+    <string name="action_next">Sunod</string>
+
+    <string name="sermons_empty">Wala pay sermon. Pindota ang + aron magsulat, o mag-import og file.</string>
+    <string name="sermons_new">Bag-ong sermon</string>
+    <string name="sermons_import">Mag-import og TXT, DOCX o PDF</string>
+    <string name="sermons_untitled">Sermon nga walay titulo</string>
+    <string name="sermons_delete_confirm">Papason kining sermona? Dili na kini mabalik.</string>
+    <string name="sermons_no_translation">Wala pay na-install nga hubad sa Biblia. Ablihi ang Mga Setting aron mag-download, ug mogawas na ang mga bersikulo sa imong mga reperensya.</string>
+    <string name="sermons_import_failed">Wala ma-import: %1$s</string>
+
+    <string name="editor_title_hint">Titulo sa sermon</string>
+    <string name="editor_body_hint">Isulat ang imong balangkas. Ang mga reperensya sama sa Juan 3:16 mapindot.</string>
+    <string name="editor_edit">Usba</string>
+    <string name="editor_read">Basaha</string>
+    <string name="editor_export_pdf">I-export isip PDF</string>
+    <string name="editor_export_docx">I-export isip Word (.docx)</string>
+    <string name="editor_exported">Na-export na</string>
+    <string name="editor_export_failed">Napakyas ang pag-export: %1$s</string>
+    <string name="editor_refs">Mga reperensya niini nga balangkas</string>
+
+    <string name="verse_add_to_outline">Idugang sa balangkas</string>
+    <string name="verse_bookmark">Bookmark</string>
+    <string name="verse_favorite">Pinalabi</string>
+    <string name="verse_open_chapter">Ablihi ang kapitulo</string>
+    <string name="verse_copied">Nakopya na</string>
+    <string name="verse_no_translation">Mag-download og hubad sa Biblia sa Mga Setting aron mabasa kini nga bersikulo.</string>
+    <string name="verse_not_found">Wala makita kini nga bahin sa gipili nga hubad.</string>
+    <string name="picker_title">Idugang sa unsang sermon?</string>
+    <string name="picker_new">Bag-ong sermon</string>
+    <string name="added_to_outline">Nadugang na sa balangkas</string>
+
+    <string name="reader_book">Libro</string>
+    <string name="reader_chapter">Kapitulo</string>
+    <string name="reader_no_translation">Wala pay na-install nga hubad sa Biblia. Ablihi ang Mga Setting, dayon ang Mga hubad sa Biblia, aron mag-download.</string>
+    <string name="marks_title">Mga gitipigan nga bersikulo</string>
+    <string name="marks_bookmarks">Mga Bookmark</string>
+    <string name="marks_favorites">Mga Pinalabi</string>
+    <string name="marks_empty">Wala pay natipigan.</string>
+
+    <string name="search_hint">Pangitaa ang pulong, hugpong sa pulong, hilisgutan o pangutana</string>
+    <string name="search_all_versions">Tanang na-download nga hubad</string>
+    <string name="search_use_ai">Gamita ang offline AI</string>
+    <string name="search_no_results">Walay resulta. Sulayi ang lain nga mga pulong, o mag-download og dugang hubad.</string>
+    <string name="search_need_translation">Mag-download una og hubad sa Biblia (Mga Setting).</string>
+    <string name="search_kind_reference">Reperensya</string>
+    <string name="search_kind_topic">Hilisgutan: %1$s</string>
+    <string name="search_kind_keyword">Pareho nga pulong</string>
+    <string name="search_kind_ai">Sugyot sa AI (palihog susiha)</string>
+    <string name="search_related">May kalabutan</string>
+
+    <string name="assistant_title">Katabang sa sermon</string>
+    <string name="assistant_hint">Hilisgutan, pananglitan Pagtuo sa panahon sa pagsulay</string>
+    <string name="assistant_generate">Himoa ang balangkas</string>
+    <string name="assistant_working">Nagtrabaho…</string>
+    <string name="assistant_template_note">Walay na-install nga AI model, busa kini usa ka template gikan sa lista sa mga hilisgutan. Mag-install og model sa Mga Setting aron makabaton og gihimo nga balangkas.</string>
+    <string name="assistant_model_note">Gisulat sa AI model sa imong device. Kanunay susiha kini batok sa Kasulatan.</string>
+    <string name="assistant_unverified">Wala makita sa imong gipili nga hubad kining mga reperensya, busa palihog susiha: %1$s</string>
+    <string name="assistant_save">I-save isip bag-ong sermon</string>
+
+    <string name="settings_title">Mga Setting</string>
+    <string name="settings_appearance">Hitsura</string>
+    <string name="theme_system">Sumala sa sistema</string>
+    <string name="theme_light">Hayag</string>
+    <string name="theme_dark">Ngitngit</string>
+    <string name="settings_language">Pinulongan sa app</string>
+    <string name="lang_system">Sumala sa sistema</string>
+    <string name="lang_en">English</string>
+    <string name="lang_fil">Tagalog (Filipino)</string>
+    <string name="lang_ceb">Bisaya (Cebuano)</string>
+    <string name="settings_preferred">Gipili nga hubad</string>
+    <string name="settings_versions">Mga hubad sa Biblia</string>
+    <string name="versions_download">I-download</string>
+    <string name="versions_delete">Kuhaa</string>
+    <string name="versions_import">Mag-import gikan sa file…</string>
+    <string name="versions_custom">Mag-download gikan sa URL…</string>
+    <string name="versions_verses">%1$d ka bersikulo</string>
+    <string name="versions_license">Lisensya: %1$s</string>
+    <string name="versions_error">Napakyas: %1$s</string>
+    <string name="versions_installed">Na-install</string>
+    <string name="dialog_id">Mubo nga ID (walay space)</string>
+    <string name="dialog_name">Ngalan</string>
+    <string name="dialog_language">Code sa pinulongan (en, tl, ceb)</string>
+    <string name="dialog_url">URL</string>
+    <string name="dialog_format">Format sa file</string>
+    <string name="settings_ai">Offline nga AI model</string>
+    <string name="ai_status_none">Walay na-install nga model.</string>
+    <string name="ai_status_installed">Na-install: %1$s</string>
+    <string name="ai_import">Mag-import og model file (.task / .litertlm)</string>
+    <string name="ai_remove">Kuhaa ang model</string>
+    <string name="ai_note">Gigamit para sa pagpangita pinaagi sa kahulogan ug sa katabang sa sermon. Dako ang model (pipila ka GB) ug dili kauban sa app. Kinahanglan dawaton ang lisensya sa mga Gemma model sa gigikanan sa dili pa i-download. Kinahanglan og telepono nga daghan og libre nga memorya.</string>
+    <string name="ai_importing">Gikopya ang model…</string>
+    <string name="settings_about">Bahin sa app</string>
+    <string name="about_text">Offline nga pag-andam sa sermon ug pagtuon sa Biblia. Ang teksto sa mga bersikulo gikan sa mga hubad nga imong gi-download. Ang AI makasayop, busa kanunay susiha kini batok sa Kasulatan.</string>
+</resources>

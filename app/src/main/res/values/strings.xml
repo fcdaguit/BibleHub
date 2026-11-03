@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sermon Prep</string>
+
+    <string name="tab_sermons">Sermons</string>
+    <string name="tab_bible">Bible</string>
+    <string name="tab_search">Search</string>
+    <string name="tab_assistant">Assistant</string>
+    <string name="tab_settings">Settings</string>
+
+    <string name="action_cancel">Cancel</string>
+    <string name="action_ok">OK</string>
+    <string name="action_close">Close</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_duplicate">Duplicate</string>
+    <string name="action_copy">Copy</string>
+    <string name="action_share">Share</string>
+    <string name="action_back">Back</string>
+    <string name="action_previous">Previous</string>
+    <string name="action_next">Next</string>
+
+    <string name="sermons_empty">No sermons yet. Tap + to write one, or import a file.</string>
+    <string name="sermons_new">New sermon</string>
+    <string name="sermons_import">Import TXT, DOCX or PDF</string>
+    <string name="sermons_untitled">Untitled sermon</string>
+    <string name="sermons_delete_confirm">Delete this sermon? This cannot be undone.</string>
+    <string name="sermons_no_translation">No Bible translation is installed yet. Open Settings to download one, then your Bible references will show their verses.</string>
+    <string name="sermons_import_failed">Could not import: %1$s</string>
+
+    <string name="editor_title_hint">Sermon title</string>
+    <string name="editor_body_hint">Write your outline. References like John 3:16 become tappable.</string>
+    <string name="editor_edit">Edit</string>
+    <string name="editor_read">Read</string>
+    <string name="editor_export_pdf">Export as PDF</string>
+    <string name="editor_export_docx">Export as Word (.docx)</string>
+    <string name="editor_exported">Exported</string>
+    <string name="editor_export_failed">Export failed: %1$s</string>
+    <string name="editor_refs">References in this outline</string>
+
+    <string name="verse_add_to_outline">Add to outline</string>
+    <string name="verse_bookmark">Bookmark</string>
+    <string name="verse_favorite">Favorite</string>
+    <string name="verse_open_chapter">Open chapter</string>
+    <string name="verse_copied">Copied</string>
+    <string name="verse_no_translation">Download a Bible translation in Settings to read this verse.</string>
+    <string name="verse_not_found">This passage was not found in the selected translation.</string>
+    <string name="picker_title">Add to which sermon?</string>
+    <string name="picker_new">New sermon</string>
+    <string name="added_to_outline">Added to outline</string>
+
+    <string name="reader_book">Book</string>
+    <string name="reader_chapter">Chapter</string>
+    <string name="reader_no_translation">No Bible translation installed. Open Settings, then Bible translations, to download one.</string>
+    <string name="marks_title">Saved verses</string>
+    <string name="marks_bookmarks">Bookmarks</string>
+    <string name="marks_favorites">Favorites</string>
+    <string name="marks_empty">Nothing saved yet.</string>
+
+    <string name="search_hint">Search a word, phrase, topic or question</string>
+    <string name="search_all_versions">All downloaded translations</string>
+    <string name="search_use_ai">Use offline AI</string>
+    <string name="search_no_results">No results. Try different words, or download more translations.</string>
+    <string name="search_need_translation">Download a Bible translation first (Settings).</string>
+    <string name="search_kind_reference">Reference</string>
+    <string name="search_kind_topic">Topic: %1$s</string>
+    <string name="search_kind_keyword">Keyword match</string>
+    <string name="search_kind_ai">AI suggestion (please verify)</string>
+    <string name="search_related">Related</string>
+
+    <string name="assistant_title">Sermon assistant</string>
+    <string name="assistant_hint">Topic, e.g. Faith during trials</string>
+    <string name="assistant_generate">Generate outline</string>
+    <string name="assistant_working">Working…</string>
+    <string name="assistant_template_note">No AI model is installed, so this is a template built from the topic index. Install a model in Settings to get a generated outline.</string>
+    <string name="assistant_model_note">Written by the on-device AI model. Always check it against Scripture.</string>
+    <string name="assistant_unverified">These references were not found in your selected translation, so please check them: %1$s</string>
+    <string name="assistant_save">Save as new sermon</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="settings_appearance">Appearance</string>
+    <string name="theme_system">System default</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="settings_language">App language</string>
+    <string name="lang_system">System default</string>
+    <string name="lang_en">English</string>
+    <string name="lang_fil">Tagalog (Filipino)</string>
+    <string name="lang_ceb">Bisaya (Cebuano)</string>
+    <string name="settings_preferred">Preferred translation</string>
+    <string name="settings_versions">Bible translations</string>
+    <string name="versions_download">Download</string>
+    <string name="versions_delete">Remove</string>
+    <string name="versions_import">Import from file…</string>
+    <string name="versions_custom">Download from a URL…</string>
+    <string name="versions_verses">%1$d verses</string>
+    <string name="versions_license">Licence: %1$s</string>
+    <string name="versions_error">Failed: %1$s</string>
+    <string name="versions_installed">Installed</string>
+    <string name="dialog_id">Short ID (no spaces)</string>
+    <string name="dialog_name">Name</string>
+    <string name="dialog_language">Language code (en, tl, ceb)</string>
+    <string name="dialog_url">URL</string>
+    <string name="dialog_format">File format</string>
+    <string name="settings_ai">Offline AI model</string>
+    <string name="ai_status_none">No model installed.</string>
+    <string name="ai_status_installed">Installed: %1$s</string>
+    <string name="ai_import">Import model file (.task / .litertlm)</string>
+    <string name="ai_remove">Remove model</string>
+    <string name="ai_note">Used for semantic search and the sermon assistant. The model is large (several GB) and is not part of the app. Gemma models require you to accept their licence on the model host before downloading. Needs a phone with plenty of free memory.</string>
+    <string name="ai_importing">Copying model…</string>
+    <string name="settings_about">About</string>
+    <string name="about_text">Offline sermon preparation and Bible study. Verse text comes from the translations you download. AI output can be wrong, so always check it against Scripture.</string>
+</resources>

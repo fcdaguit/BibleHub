@@ -1,0 +1,65 @@
+[
+  {
+    "id": "kjv",
+    "name": "King James Version (KJV)",
+    "language": "en",
+    "format": "csv",
+    "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/csv/KJV.csv",
+    "license": "Public domain",
+    "note": ""
+  },
+  {
+    "id": "asv",
+    "name": "American Standard Version (ASV)",
+    "language": "en",
+    "format": "csv",
+    "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/csv/ASV.csv",
+    "license": "Public domain",
+    "note": ""
+  },
+  {
+    "id": "bsb",
+    "name": "Berean Standard Bible (BSB)",
+    "language": "en",
+    "format": "csv",
+    "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/csv/BSB.csv",
+    "license": "Released to the public domain by its publisher (verify current terms)",
+    "note": ""
+  },
+  {
+    "id": "nheb",
+    "name": "New Heart English Bible (NHEB)",
+    "language": "en",
+    "format": "csv",
+    "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/csv/NHEB.csv",
+    "license": "Public domain (verify)",
+    "note": "Has 31,104 verse rows instead of 31,102, so a few verses are split differently."
+  },
+  {
+    "id": "tl-adb1905",
+    "name": "Tagalog – Ang Biblia (Philippine Bible Society, 1905)",
+    "language": "tl",
+    "format": "csv",
+    "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/csv/TagAngBiblia.csv",
+    "license": "1905 text, believed public domain (verify)",
+    "note": ""
+  },
+  {
+    "id": "ceb-pinadayag",
+    "name": "Cebuano / Bisaya (CebPinadayag)",
+    "language": "ceb",
+    "format": "csv",
+    "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/csv/CebPinadayag.csv",
+    "license": "Copyright status NOT confirmed – check before redistributing",
+    "note": "Full 66-book text. Confirm the licence for your use."
+  },
+  {
+    "id": "esv",
+    "name": "English Standard Version (ESV)",
+    "language": "en",
+    "format": "manual",
+    "url": "",
+    "license": "Copyright Crossway. Not freely downloadable.",
+    "note": "Crossway restricts offline copies. If you hold a licence, use Import from file with your own CSV/JSON/pipe-text file."
+  }
+]

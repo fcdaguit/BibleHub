@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sermon Prep</string>
+
+    <string name="tab_sermons">Mga Sermon</string>
+    <string name="tab_bible">Biblia</string>
+    <string name="tab_search">Hanapin</string>
+    <string name="tab_assistant">Katulong</string>
+    <string name="tab_settings">Mga Setting</string>
+
+    <string name="action_cancel">Kanselahin</string>
+    <string name="action_ok">OK</string>
+    <string name="action_close">Isara</string>
+    <string name="action_delete">Burahin</string>
+    <string name="action_duplicate">Gumawa ng kopya</string>
+    <string name="action_copy">Kopyahin</string>
+    <string name="action_share">Ibahagi</string>
+    <string name="action_back">Bumalik</string>
+    <string name="action_previous">Nauna</string>
+    <string name="action_next">Susunod</string>
+
+    <string name="sermons_empty">Wala pang sermon. Pindutin ang + para magsulat, o mag-import ng file.</string>
+    <string name="sermons_new">Bagong sermon</string>
+    <string name="sermons_import">Mag-import ng TXT, DOCX o PDF</string>
+    <string name="sermons_untitled">Sermon na walang pamagat</string>
+    <string name="sermons_delete_confirm">Buburahin ang sermon na ito? Hindi na ito maibabalik.</string>
+    <string name="sermons_no_translation">Wala pang naka-install na salin ng Biblia. Buksan ang Mga Setting para mag-download, at lalabas na ang mga talata ng iyong mga reperensya.</string>
+    <string name="sermons_import_failed">Hindi na-import: %1$s</string>
+
+    <string name="editor_title_hint">Pamagat ng sermon</string>
+    <string name="editor_body_hint">Isulat ang iyong balangkas. Ang mga reperensyang tulad ng Juan 3:16 ay mapipindot.</string>
+    <string name="editor_edit">I-edit</string>
+    <string name="editor_read">Basahin</string>
+    <string name="editor_export_pdf">I-export bilang PDF</string>
+    <string name="editor_export_docx">I-export bilang Word (.docx)</string>
+    <string name="editor_exported">Na-export na</string>
+    <string name="editor_export_failed">Nabigo ang pag-export: %1$s</string>
+    <string name="editor_refs">Mga reperensya sa balangkas na ito</string>
+
+    <string name="verse_add_to_outline">Idagdag sa balangkas</string>
+    <string name="verse_bookmark">Bookmark</string>
+    <string name="verse_favorite">Paborito</string>
+    <string name="verse_open_chapter">Buksan ang kabanata</string>
+    <string name="verse_copied">Nakopya na</string>
+    <string name="verse_no_translation">Mag-download ng salin ng Biblia sa Mga Setting para mabasa ang talatang ito.</string>
+    <string name="verse_not_found">Hindi nakita ang talatang ito sa napiling salin.</string>
+    <string name="picker_title">Idagdag sa aling sermon?</string>
+    <string name="picker_new">Bagong sermon</string>
+    <string name="added_to_outline">Naidagdag sa balangkas</string>
+
+    <string name="reader_book">Aklat</string>
+    <string name="reader_chapter">Kabanata</string>
+    <string name="reader_no_translation">Walang naka-install na salin ng Biblia. Buksan ang Mga Setting, saka ang Mga salin ng Biblia, para mag-download.</string>
+    <string name="marks_title">Mga naka-save na talata</string>
+    <string name="marks_bookmarks">Mga Bookmark</string>
+    <string name="marks_favorites">Mga Paborito</string>
+    <string name="marks_empty">Wala pang naka-save.</string>
+
+    <string name="search_hint">Maghanap ng salita, parirala, paksa o tanong</string>
+    <string name="search_all_versions">Lahat ng na-download na salin</string>
+    <string name="search_use_ai">Gamitin ang offline AI</string>
+    <string name="search_no_results">Walang resulta. Subukan ang ibang salita, o mag-download ng iba pang salin.</string>
+    <string name="search_need_translation">Mag-download muna ng salin ng Biblia (Mga Setting).</string>
+    <string name="search_kind_reference">Reperensya</string>
+    <string name="search_kind_topic">Paksa: %1$s</string>
+    <string name="search_kind_keyword">Tugma sa salita</string>
+    <string name="search_kind_ai">Mungkahi ng AI (pakisuri)</string>
+    <string name="search_related">Kaugnay</string>
+
+    <string name="assistant_title">Katulong sa sermon</string>
+    <string name="assistant_hint">Paksa, hal. Pananampalataya sa gitna ng pagsubok</string>
+    <string name="assistant_generate">Gumawa ng balangkas</string>
+    <string name="assistant_working">Gumagana…</string>
+    <string name="assistant_template_note">Walang naka-install na AI model, kaya ito ay template mula sa talaan ng mga paksa. Mag-install ng model sa Mga Setting para magkaroon ng nabuong balangkas.</string>
+    <string name="assistant_model_note">Isinulat ng AI model sa iyong device. Laging suriin ito ayon sa Kasulatan.</string>
+    <string name="assistant_unverified">Hindi nakita sa napili mong salin ang mga reperensyang ito, kaya pakisuri: %1$s</string>
+    <string name="assistant_save">I-save bilang bagong sermon</string>
+
+    <string name="settings_title">Mga Setting</string>
+    <string name="settings_appearance">Hitsura</string>
+    <string name="theme_system">Ayon sa sistema</string>
+    <string name="theme_light">Maliwanag</string>
+    <string name="theme_dark">Madilim</string>
+    <string name="settings_language">Wika ng app</string>
+    <string name="lang_system">Ayon sa sistema</string>
+    <string name="lang_en">English</string>
+    <string name="lang_fil">Tagalog (Filipino)</string>
+    <string name="lang_ceb">Bisaya (Cebuano)</string>
+    <string name="settings_preferred">Piniling salin</string>
+    <string name="settings_versions">Mga salin ng Biblia</string>
+    <string name="versions_download">I-download</string>
+    <string name="versions_delete">Alisin</string>
+    <string name="versions_import">Mag-import mula sa file…</string>
+    <string name="versions_custom">Mag-download mula sa URL…</string>
+    <string name="versions_verses">%1$d talata</string>
+    <string name="versions_license">Lisensya: %1$s</string>
+    <string name="versions_error">Nabigo: %1$s</string>
+    <string name="versions_installed">Naka-install</string>
+    <string name="dialog_id">Maikling ID (walang espasyo)</string>
+    <string name="dialog_name">Pangalan</string>
+    <string name="dialog_language">Code ng wika (en, tl, ceb)</string>
+    <string name="dialog_url">URL</string>
+    <string name="dialog_format">Format ng file</string>
+    <string name="settings_ai">Offline na AI model</string>
+    <string name="ai_status_none">Walang naka-install na model.</string>
+    <string name="ai_status_installed">Naka-install: %1$s</string>
+    <string name="ai_import">Mag-import ng model file (.task / .litertlm)</string>
+    <string name="ai_remove">Alisin ang model</string>
+    <string name="ai_note">Ginagamit para sa paghahanap batay sa kahulugan at sa katulong sa sermon. Malaki ang model (ilang GB) at hindi kasama sa app. Kailangang tanggapin ang lisensya ng mga Gemma model sa pinagmulan bago i-download. Kailangan ng teleponong maraming libreng memorya.</string>
+    <string name="ai_importing">Kinokopya ang model…</string>
+    <string name="settings_about">Tungkol sa app</string>
+    <string name="about_text">Offline na paghahanda ng sermon at pag-aaral ng Biblia. Ang teksto ng mga talata ay galing sa mga salin na iyong dina-download. Maaaring magkamali ang AI, kaya laging suriin ito ayon sa Kasulatan.</string>
+</resources>
