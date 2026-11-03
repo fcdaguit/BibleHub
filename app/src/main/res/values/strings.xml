@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sermon Studio</string>
+    <string name="nav_sermons">Sermons</string>
+    <string name="nav_bible">Bible</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_assistant">Assistant</string>
+    <string name="nav_notes">Notes</string>
+    <string name="nav_settings">Settings</string>
+
+    <string name="new_sermon">New sermon</string>
+    <string name="search_sermons">Search sermons</string>
+    <string name="all">All</string>
+    <string name="archived">Archived</string>
+    <string name="archive">Archive</string>
+    <string name="unarchive">Unarchive</string>
+    <string name="duplicate">Duplicate</string>
+    <string name="delete">Delete</string>
+    <string name="export_as">Export as</string>
+    <string name="import_file">Import file</string>
+    <string name="move_to_folder">Move to folder</string>
+    <string name="new_folder">New folder</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="copy">Copy</string>
+    <string name="insert">Insert</string>
+    <string name="open_chapter">Open chapter</string>
+    <string name="undo">Undo</string>
+    <string name="redo">Redo</string>
+    <string name="untitled">Untitled sermon</string>
+    <string name="title">Title</string>
+    <string name="references_in_sermon">Scripture references</string>
+    <string name="insert_scripture">Insert scripture</string>
+    <string name="reference_hint">e.g. John 3:16</string>
+    <string name="saved">Saved</string>
+
+    <string name="bible_version">Bible version</string>
+    <string name="compare">Compare</string>
+    <string name="book">Book</string>
+    <string name="chapter">Chapter</string>
+    <string name="no_bible_installed">No Bible version installed. Open Settings → Bible versions.</string>
+
+    <string name="search_hint">Search the Bible (words, phrases, topics, questions)</string>
+    <string name="mode_all">All</string>
+    <string name="mode_keyword">Keyword</string>
+    <string name="mode_phrase">Phrase</string>
+    <string name="mode_topic">Topic</string>
+    <string name="mode_semantic">Meaning</string>
+    <string name="mode_question">Question</string>
+    <string name="no_results">No results</string>
+    <string name="cross_references">Cross references</string>
+    <string name="not_in_version">Passage not available in the installed version</string>
+
+    <string name="assistant_topic">From topic</string>
+    <string name="assistant_passage">From passage</string>
+    <string name="assistant_recommend">Scripture suggestions</string>
+    <string name="topic_hint">Topic, theme or question</string>
+    <string name="passage_hint">Passage, e.g. Romans 8:28</string>
+    <string name="sermon_type">Type</string>
+    <string name="generate">Generate</string>
+    <string name="save_as_outline">Save as sermon outline</string>
+    <string name="ai_review_notice">Generated drafts are study aids. Check every verse and doctrine against Scripture before preaching.</string>
+    <string name="engine">Engine</string>
+    <string name="engine_template">Built-in (offline templates)</string>
+    <string name="engine_llm">On-device AI model</string>
+
+    <string name="notes">Notes</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="add_note">Add note</string>
+    <string name="tags_hint">Tags (comma separated)</string>
+    <string name="topic_label">Topic</string>
+    <string name="note_text">Note</string>
+
+    <string name="settings_appearance">Appearance</string>
+    <string name="theme">Theme</string>
+    <string name="theme_system">System</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="dynamic_color">Dynamic colour</string>
+    <string name="language">Language</string>
+    <string name="settings_bible">Bible</string>
+    <string name="default_version">Default version</string>
+    <string name="manage_versions">Bible versions</string>
+    <string name="settings_ai">AI</string>
+    <string name="import_model">Import AI model file</string>
+    <string name="settings_backup">Backup</string>
+    <string name="auto_backup">Automatic daily backup</string>
+    <string name="backup_now">Back up now</string>
+    <string name="export_backup">Export backup file</string>
+    <string name="restore_backup">Restore from file</string>
+
+    <string name="installed">Installed</string>
+    <string name="set_default">Set as default</string>
+    <string name="import_bible_file">Import Bible file</string>
+    <string name="download_from_url">Download from URL</string>
+    <string name="version_id">Short code (e.g. KJV)</string>
+    <string name="version_name">Name</string>
+    <string name="version_language">Language</string>
+    <string name="version_license">License / source</string>
+    <string name="url">URL</string>
+</resources>
