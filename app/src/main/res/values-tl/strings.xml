@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Tagalog. Machine-assisted draft: have a native speaker review before release. -->
+<resources>
+    <string name="app_name">Sermon Studio</string>
+    <string name="nav_sermons">Mga Sermon</string>
+    <string name="nav_bible">Biblia</string>
+    <string name="nav_search">Hanapin</string>
+    <string name="nav_assistant">Katulong</string>
+    <string name="nav_notes">Mga Tala</string>
+    <string name="nav_settings">Mga Setting</string>
+
+    <string name="new_sermon">Bagong sermon</string>
+    <string name="search_sermons">Hanapin ang mga sermon</string>
+    <string name="all">Lahat</string>
+    <string name="archived">Naka-archive</string>
+    <string name="archive">I-archive</string>
+    <string name="unarchive">Alisin sa archive</string>
+    <string name="duplicate">Gumawa ng kopya</string>
+    <string name="delete">Burahin</string>
+    <string name="export_as">I-export bilang</string>
+    <string name="import_file">Mag-import ng file</string>
+    <string name="move_to_folder">Ilipat sa folder</string>
+    <string name="new_folder">Bagong folder</string>
+    <string name="save">I-save</string>
+    <string name="cancel">Kanselahin</string>
+    <string name="ok">OK</string>
+    <string name="copy">Kopyahin</string>
+    <string name="insert">Ipasok</string>
+    <string name="open_chapter">Buksan ang kabanata</string>
+    <string name="undo">I-undo</string>
+    <string name="redo">I-redo</string>
+    <string name="untitled">Walang pamagat na sermon</string>
+    <string name="title">Pamagat</string>
+    <string name="references_in_sermon">Mga talata sa Kasulatan</string>
+    <string name="insert_scripture">Magpasok ng talata</string>
+    <string name="reference_hint">hal. Juan 3:16</string>
+    <string name="saved">Na-save</string>
+
+    <string name="bible_version">Bersyon ng Biblia</string>
+    <string name="compare">Paghambingin</string>
+    <string name="book">Aklat</string>
+    <string name="chapter">Kabanata</string>
+    <string name="no_bible_installed">Walang naka-install na Biblia. Buksan ang Mga Setting → Mga bersyon ng Biblia.</string>
+
+    <string name="search_hint">Maghanap sa Biblia (salita, parirala, paksa, tanong)</string>
+    <string name="mode_all">Lahat</string>
+    <string name="mode_keyword">Salita</string>
+    <string name="mode_phrase">Parirala</string>
+    <string name="mode_topic">Paksa</string>
+    <string name="mode_semantic">Kahulugan</string>
+    <string name="mode_question">Tanong</string>
+    <string name="no_results">Walang resulta</string>
+    <string name="cross_references">Mga kaugnay na talata</string>
+    <string name="not_in_version">Wala ang talatang ito sa naka-install na bersyon</string>
+
+    <string name="assistant_topic">Mula sa paksa</string>
+    <string name="assistant_passage">Mula sa talata</string>
+    <string name="assistant_recommend">Mga mungkahing talata</string>
+    <string name="topic_hint">Paksa, tema o tanong</string>
+    <string name="passage_hint">Talata, hal. Roma 8:28</string>
+    <string name="sermon_type">Uri</string>
+    <string name="generate">Gumawa</string>
+    <string name="save_as_outline">I-save bilang balangkas ng sermon</string>
+    <string name="ai_review_notice">Pantulong lamang ang mga likhang balangkas. Suriin ang bawat talata at doktrina sa Kasulatan bago mangaral.</string>
+    <string name="engine">Makina</string>
+    <string name="engine_template">Built-in (offline na template)</string>
+    <string name="engine_llm">AI model sa device</string>
+
+    <string name="notes">Mga Tala</string>
+    <string name="bookmarks">Mga Bookmark</string>
+    <string name="add_note">Magdagdag ng tala</string>
+    <string name="tags_hint">Mga tag (pinaghihiwalay ng kuwit)</string>
+    <string name="topic_label">Paksa</string>
+    <string name="note_text">Tala</string>
+
+    <string name="settings_appearance">Hitsura</string>
+    <string name="theme">Tema</string>
+    <string name="theme_system">Ayon sa system</string>
+    <string name="theme_light">Maliwanag</string>
+    <string name="theme_dark">Madilim</string>
+    <string name="dynamic_color">Dynamic na kulay</string>
+    <string name="language">Wika</string>
+    <string name="settings_bible">Biblia</string>
+    <string name="default_version">Default na bersyon</string>
+    <string name="manage_versions">Mga bersyon ng Biblia</string>
+    <string name="settings_ai">AI</string>
+    <string name="import_model">Mag-import ng AI model file</string>
+    <string name="settings_backup">Backup</string>
+    <string name="auto_backup">Awtomatikong araw-araw na backup</string>
+    <string name="backup_now">Mag-backup ngayon</string>
+    <string name="export_backup">I-export ang backup file</string>
+    <string name="restore_backup">Ibalik mula sa file</string>
+
+    <string name="installed">Naka-install</string>
+    <string name="set_default">Gawing default</string>
+    <string name="import_bible_file">Mag-import ng Biblia file</string>
+    <string name="download_from_url">I-download mula sa URL</string>
+    <string name="version_id">Maikling code (hal. KJV)</string>
+    <string name="version_name">Pangalan</string>
+    <string name="version_language">Wika</string>
+    <string name="version_license">Lisensya / pinagmulan</string>
+    <string name="url">URL</string>
+</resources>

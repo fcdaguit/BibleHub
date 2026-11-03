@@ -1,0 +1,64 @@
+# Sample excerpt of the King James Version (public domain), ~62 verses, for testing import and search.
+# Format: book(1-66)<TAB>chapter<TAB>verse<TAB>text
+1	1	1	In the beginning God created the heaven and the earth.
+6	1	9	Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the LORD thy God is with thee whithersoever thou goest.
+19	23	1	The LORD is my shepherd; I shall not want.
+19	23	2	He maketh me to lie down in green pastures: he leadeth me beside the still waters.
+19	23	3	He restoreth my soul: he leadeth me in the paths of righteousness for his name's sake.
+19	23	4	Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.
+19	23	5	Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.
+19	23	6	Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever.
+19	46	1	God is our refuge and strength, a very present help in trouble.
+19	56	3	What time I am afraid, I will trust in thee.
+20	3	5	Trust in the LORD with all thine heart; and lean not unto thine own understanding.
+20	3	6	In all thy ways acknowledge him, and he shall direct thy paths.
+23	41	10	Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness.
+40	5	44	But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;
+40	6	9	After this manner therefore pray ye: Our Father which art in heaven, Hallowed be thy name.
+40	6	10	Thy kingdom come, Thy will be done in earth, as it is in heaven.
+40	6	11	Give us this day our daily bread.
+40	6	12	And forgive us our debts, as we forgive our debtors.
+40	6	13	And lead us not into temptation, but deliver us from evil: For thine is the kingdom, and the power, and the glory, for ever. Amen.
+40	14	19	And he commanded the multitude to sit down on the grass, and took the five loaves, and the two fishes, and looking up to heaven, he blessed, and brake, and gave the loaves to his disciples, and the disciples to the multitude.
+40	14	20	And they did all eat, and were filled: and they took up of the fragments that remained twelve baskets full.
+40	14	21	And they that had eaten were about five thousand men, beside women and children.
+40	17	20	And Jesus said unto them, Because of your unbelief: for verily I say unto you, If ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you.
+40	28	19	Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost:
+40	28	20	Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen.
+41	4	35	And the same day, when the even was come, he saith unto them, Let us pass over unto the other side.
+41	4	36	And when they had sent away the multitude, they took him even as he was in the ship. And there were also with him other little ships.
+41	4	37	And there arose a great storm of wind, and the waves beat into the ship, so that it was now full.
+41	4	38	And he was in the hinder part of the ship, asleep on a pillow: and they awake him, and say unto him, Master, carest thou not that we perish?
+41	4	39	And he arose, and rebuked the wind, and said unto the sea, Peace, be still. And the wind ceased, and there was a great calm.
+41	4	40	And he said unto them, Why are ye so fearful? how is it that ye have no faith?
+41	4	41	And they feared exceedingly, and said one to another, What manner of man is this, that even the wind and the sea obey him?
+43	2	1	And the third day there was a marriage in Cana of Galilee; and the mother of Jesus was there:
+43	2	2	And both Jesus was called, and his disciples, to the marriage.
+43	2	3	And when they wanted wine, the mother of Jesus saith unto him, They have no wine.
+43	2	4	Jesus saith unto her, Woman, what have I to do with thee? mine hour is not yet come.
+43	2	5	His mother saith unto the servants, Whatsoever he saith unto you, do it.
+43	2	6	And there were set there six waterpots of stone, after the manner of the purifying of the Jews, containing two or three firkins apiece.
+43	2	7	Jesus saith unto them, Fill the waterpots with water. And they filled them up to the brim.
+43	2	8	And he saith unto them, Draw out now, and bear unto the governor of the feast. And they bare it.
+43	2	9	When the ruler of the feast had tasted the water that was made wine, and knew not whence it was: (but the servants which drew the water knew;) the governor of the feast called the bridegroom,
+43	2	10	And saith unto him, Every man at the beginning doth set forth good wine; and when men have well drunk, then that which is worse: but thou hast kept the good wine until now.
+43	2	11	This beginning of miracles did Jesus in Cana of Galilee, and manifested forth his glory; and his disciples believed on him.
+43	3	16	For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
+43	16	33	These things I have spoken unto you, that in me ye might have peace. In the world ye shall have tribulation: but be of good cheer; I have overcome the world.
+45	5	8	But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.
+45	8	28	And we know that all things work together for good to them that love God, to them who are the called according to his purpose.
+45	10	9	That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.
+45	12	2	And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.
+49	2	8	For by grace are ye saved through faith; and that not of yourselves: it is the gift of God:
+49	2	9	Not of works, lest any man should boast.
+49	4	32	And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ's sake hath forgiven you.
+50	4	4	Rejoice in the Lord alway: and again I say, Rejoice.
+50	4	6	Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.
+50	4	7	And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.
+52	5	16	Rejoice evermore.
+52	5	17	Pray without ceasing.
+52	5	18	In every thing give thanks: for this is the will of God in Christ Jesus concerning you.
+55	1	7	For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.
+58	11	1	Now faith is the substance of things hoped for, the evidence of things not seen.
+58	13	5	Let your conversation be without covetousness; and be content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee.
+62	1	9	If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness.
